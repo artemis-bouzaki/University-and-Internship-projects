@@ -1,0 +1,3 @@
+This program demonstrates the use of a class for matrices. The +, -, *, / operators are overloaded to perform operations between matrices. 
+The << and >> operators are overloaded for suitable input and output of a matrix. The programme also utilises copy and move constructors as well as 
+copy and move assignment operators. Finally, the class has member function to calculate the determinant of a nxn matrix recursively.
