@@ -1,0 +1,2 @@
+This programme reads data and removes errors, bad data points and outliers. From the data it calculates the minimum value of two parameters (angular frequency and initial velocity) by performing aminimized chi-squared fit. The programme also calculates other observables
+and a reduced chi-squared for the fit .Uncertainties are calculated for every result.
