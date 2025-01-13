@@ -19,7 +19,7 @@ I am currently pursuing a PhD in Cancer Sciences, where my primary research goal
 
 - **Programming & Tools**: Python, MATLAB, C++, R
 - **Data Science**: Image-based data mining, Statistical analysis, Data visualisation
-- **Software Development**: HTML, CSS, JavaScript, React, SQL databases, Git
+- **Software Development**: HTML, CSS, JavaScript, React, Django, SQL, Git
 
 ---
 
