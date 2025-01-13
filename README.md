@@ -1,7 +1,25 @@
-# Hi there!
+# Hi there
 
-I am currently a  First class Physics (MPhys) graduate from the University of Manchester. I originate from Greece, where I attended secondary education and competed in Maths, Physics and Chemistry competitions. 
+Hello! I'm a **PhD candidate in Cancer Sciences** with a focus on developing a risk prediction tool for fractures after radiotherapy. My work lies at the intersection of physics, data science and healthcare.
 
-During my time at university, I have undertaken multiple internships revolving around programming and data analysis. My most recent work experience has been with the LHCb team at The University of Manchester, where I studied the matter/antimatter asymmetry in D0 meson decays. I have a deep-rooted passion for the implementation of machine learning/data analysis in a variety of physics fields. My selected MPhys project revolved around the geometrical interpretation of medical images using machine learning and its potential application in cancer research.
+---
 
-In the future, I am hoping to further explore the tech industry, and improve my skills by becoming a software engineer.
+## About Me
+
+🔬 **Research Focus**:  
+I am currently pursuing a PhD in Cancer Sciences, where my primary research goal is to create a predictive model for identifying patients at risk of fractures after radiotherapy. By leveraging clinical data, machine learning, and advanced analytics, I aim to provide insights for personalised patient care.
+
+💡 **Previous Experience**:  
+- **Research Assistant**: I developed a novel approach for spatial dose analysis and genomic research, enabling a more detailed understanding of the relationship between radiotherapy dose distributions and genetic factors influencing patient outcomes.  
+- **CERN (LHCB)**: During my internship at CERN, I worked on the LHCB experiment, analysing vast datasets calculate matter-antimatter asymmetries. This experience honed my skills in managing and interpreting large-scale, complex datasets.  
+- **Sustainability and Innovation Projects**: I have also contributed to projects focused on sustainability, such as ZEROPLUS using innovative solutions to tackle real-world problems. These experiences helped me understand how data-driven approaches can address global challenges across industries.
+
+
+## Skills
+
+- **Programming & Tools**: Python, MATLAB, C++, R
+- **Data Science**: Image-based data mining, Statistical analysis, Data visualisation
+- **Software Development**: HTML, CSS, JavaScript, React, SQL databases, Git
+
+---
+
